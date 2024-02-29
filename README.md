@@ -1,2 +1,2 @@
 Hello!
-This repository contains my projects.
+This repository contains body mass index calculator.
